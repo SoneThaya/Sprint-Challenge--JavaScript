@@ -40,7 +40,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-  Closures are used to enable data privacy. Enclosed variables are only in scope within the containing function. Can’t get data from an outside scope.
+  Closures are used to enable data privacy. Enclosed variables are only in scope within the containing function. Can’t get data from an outside scope. a closure gives you access to an outer function's scope from an inner function.
 
 4. Describe the four rules of the 'this' keyword.
 
